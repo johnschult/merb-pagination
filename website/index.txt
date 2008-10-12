@@ -2,7 +2,7 @@ h1. merb-pagination
 
 h2. What
 
-A pagination helper for merb. Useful with dm-is-paginated
+A pagination helper for merb. Useful with dm-is-paginated or with Sequel's built in pagination.
 
 h2. Installing
 
@@ -85,9 +85,9 @@ h2. How to submit patches
 
 Read the "8 steps for fixing other people's code":http://drnicwilliams.com/2007/06/01/8-steps-for-fixing-other-peoples-code/ and for section "8b: Submit patch to Google Groups":http://drnicwilliams.com/2007/06/01/8-steps-for-fixing-other-peoples-code/#8b-google-groups, use the Google Group above.
 
-You can fetch the source from gitorious:
+You can fetch the source from github:
 
-<pre>git clone git://gitorious.org/merb_pagination/mainline.git</pre>
+<pre>git clone git://github.com/lholden/merb-pagination.git</pre>
 
 h3. Build and test instructions
 
