@@ -48,7 +48,7 @@ module Merb
     #    Provides the base url to use in the page navigation links.
     #    Defaults to ''
     def paginate(current_page, page_count, options = {})
-      if page_count > 0
+      if page_count > 1
         options.reverse_merge!({
           :class           => 'paginated',
           :prev_label      => '&laquo; Previous ',
