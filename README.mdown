@@ -1,4 +1,4 @@
-# merb_pagination
+# merb-pagination
 
 [http://merb-pagination.rubyforge.org](http://merb-pagination.rubyforge.org)
 
