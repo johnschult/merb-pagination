@@ -1,14 +1,14 @@
-= merb_pagination
+# merb_pagination
 
-* http://merb-pagination.rubyforge.org
+[http://merb-pagination.rubyforge.org](http://merb-pagination.rubyforge.org)
 
-== DESCRIPTION:
+## DESCRIPTION:
 
 A pagination helper for merb. Useful with dm-is-paginated
 
 See the website for more details.
 
-== LICENSE:
+## LICENSE:
 
 (The MIT License)
 
